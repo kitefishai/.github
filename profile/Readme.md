@@ -1,6 +1,6 @@
-# Kitefish
+# KiteFishAI
 
-Kitefish is an AI research organization building foundation models and scalable language systems.
+KiteFish is an AI research organization building foundation models and scalable language systems.
 
 Founded in 2026, we focus on developing efficient, high-performance large language models designed for reasoning, multilingual capability, and real-world deployment.
 
